@@ -52,3 +52,6 @@ console.log(a);
 // const a=24;
 // console.log(a);
 
+let marks=14;
+console.log(marks);
+console.log(typeof(marks));
